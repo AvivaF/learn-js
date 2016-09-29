@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 var stockPrice = 10; //assume dollars
 
 while (stockPrice >= 10){
@@ -8,3 +9,6 @@ while (stockPrice >= 10){
 		alert('Sell!!!');
 	}
 }
+=======
+console.log('working!');
+>>>>>>> ADDA-js/master
